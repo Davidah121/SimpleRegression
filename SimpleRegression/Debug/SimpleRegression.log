@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alan\documents\visual studio 2017\projects\simpleregression\simpleregression\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\alan\documents\visual studio 2017\projects\simpleregression\simpleregression\source.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\alan\documents\visual studio 2017\projects\simpleregression\simpleregression\source.cpp(201): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SimpleRegression.vcxproj -> C:\Users\Alan\Documents\Visual Studio 2017\Projects\SimpleRegression\Debug\SimpleRegression.exe
